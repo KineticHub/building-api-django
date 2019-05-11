@@ -1,9 +1,9 @@
 {
     "dev": {
-        "app_function": "pollsapi.settings",
+        "django_settings": "pollsapi.settings",
         "aws_region": "us-east-1",
         "profile_name": "default",
-        "project_name": "building-api-dj",
+        "project_name": "pollsapi",
         "runtime": "python3.7",
         "s3_bucket": "openinc-qa"
     }
